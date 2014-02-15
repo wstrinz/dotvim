@@ -1,5 +1,6 @@
 execute pathogen#infect()
 
+syntax on
 colorscheme textmate16
 set tabstop=2
 set shiftwidth=2
