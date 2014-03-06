@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/wstrinz/.vim'
 let g:netrw_dirhist_2='/home/wstrinz'
 let g:netrw_dirhist_3='/home/wstrinz/bus-opt'
 let g:netrw_dirhist_4='/home/wstrinz'
 let g:netrw_dirhist_5='/home/wstrinz/adventure-bot'
 let g:netrw_dirhist_6='/home/wstrinz'
+let g:netrw_dirhist_7='/home/wstrinz/nlp/dicot/model/train'

@@ -2,7 +2,11 @@ execute pathogen#infect()
 
 colorscheme textmate16
 set tabstop=2
+set softtabstop=2
 set shiftwidth=2
+set expandtab
+
+filetype plugin indent on
 
 if has("terminfo")
   let &t_Co=16
